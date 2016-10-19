@@ -19,6 +19,12 @@ Features
 * Attempts to identify semantically sections of the page likely to contain Hungarian Politics and removes them from the page.
 * Sensitivity settings to customize the aggressiveness of the filter - remove single references, chunks or the entire page.
 
+Future features
+--------------------------
+* Optimize extension for the bigger sites (index, origo, facebook, twitter etc)
+* External filter words list to update without update extension
+* Add more filter words
+* Enable/Disable option for individual sites (like AdBlocker)
 
 Installation (for Users)
 --------------------------
